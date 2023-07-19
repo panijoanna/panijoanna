@@ -3,15 +3,10 @@ Here you can see exactly what skills I have.
 
 ### 🛠️ My Front-end tech stack/skills:
 ✅ HTML5
-semantic, forms and validation, BEM convention, accessibility, SEO
 ✅ CSS3
-styled components, RWD, flexbox, grid, box model, positioning
 ✅ JS ES6+
-DOM manipulating, API, variables, data types, data structures, equality comparisons, loops and iterations, control flow, functions, expressions and operators, asynchronous JS 
 ✅ React: 
-context, functional components, components, rendering, hooks (also custom), API calls, state management, routers
 ✅ Redux: 
-saga, toolkit
 ✅ GIT
 ✅ Bootstrap
 
