@@ -1,6 +1,9 @@
 ## 👋  Hi, I'm Joanna - Front-end Developer 
 Here you can see exactly what skills I have.
 
+My official website:
+https://panimasz.pl/
+
 ### 🛠️ My Front-end tech stack/skills:
 ✅ HTML5 | ✅ CSS3 | ✅ JS ES6+ | ✅ React | ✅ Redux | ✅ GIT | ✅ Bootstrap
 ```
