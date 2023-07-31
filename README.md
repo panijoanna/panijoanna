@@ -1,16 +1,16 @@
 ## 👋  Hi, I'm Joanna - Front-end Developer 
-Here you can see exactly what skills I have.
-
 My official website:
 https://panimasz.pl/
 
-### 🛠️ My Front-end tech stack/skills:
+### My Front-end tech stack/skills:
 ```
-✅ HTML5 | ✅ CSS3 | ✅ JS ES6+ | ✅ React | ✅ Redux | ✅ GIT | ✅ Bootstrap | ✅ Tailwind
+✅ HTML5 | ✅ CSS3 | ✅ JAVASCRIPT ES6+ | ✅ React | ✅ Redux | ✅ Vue | ✅ Pinia
 ```
-Other:
 ```
-VSC | Create React App | Vite | Jira & Trello | Node.js | Webpack | Npm | Figma | Affinity Designer | Adobe Photoshop
+Testing: Vitest
+CSS: Tailwind, Styled components, Bootstrap
+Webpack, Vite, GIT
+Visual Studio Code, Jira, Trello, Node.js, Npm, GIT, Figma, Affinity Designer/Adobe Photoshop
 ```
 
 ### Completed projects
