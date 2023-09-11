@@ -4,7 +4,7 @@ https://panimasz.pl/
 
 ### My Front-end tech stack/skills:
 ```
-✅ HTML5 | ✅ CSS3 | ✅ JAVASCRIPT ES6+ | ✅ React | ✅ Redux | ✅ Vue | ✅ Pinia
+✅ HTML5 | ✅ CSS3 | ✅ JAVASCRIPT ES6+ | ✅ React | ✅ Redux | ✅ Vue | ✅ Vitest (unit testing) | ✅ Pinia
 ```
 ```
 Testing: Vitest
