@@ -18,7 +18,8 @@ Visual Studio Code, Jira, Trello, Node.js, Npm, GIT, Figma, Affinity Designer/Ad
 📁 Commercial Portfolio (my own site for commercial purposes)
 📁 To Do List (React & Vanilla JS version)
 📁 Currency Converter (React & Vanilla JS Version)
-📁 Personal Homepage
-📁 Movies Browser (project group)
+📁 Personal Homepage (React)
+📁 Movies Browser (project group, React + Redux)
+📁 Disney Characters (Vue, Vitest, Pinia)
 ```
 ⌛ Some are in progress...
