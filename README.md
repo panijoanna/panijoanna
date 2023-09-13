@@ -4,7 +4,7 @@ https://panimasz.pl/
 
 ### My Front-end tech stack/skills:
 ```
-✅ HTML5 | ✅ CSS3 | ✅ JAVASCRIPT ES6+ | ✅ React | ✅ Redux | ✅ Vue | ✅ Vitest (unit testing) | ✅ Pinia
+✅ HTML5 | ✅ CSS3 | ✅ JAVASCRIPT ES6+ | ✅ React | ✅ Redux | ✅ Vue3 | ✅ Vitest (unit testing) | ✅ Pinia
 ```
 ```
 Testing: Vitest
@@ -20,6 +20,6 @@ Visual Studio Code, Jira, Trello, Node.js, Npm, GIT, Figma, Affinity Designer/Ad
 📁 Currency Converter (React & Vanilla JS Version)
 📁 Personal Homepage (React)
 📁 Movies Browser (project group, React + Redux)
-📁 Disney Characters (Vue, Vitest, Pinia)
+📁 Disney Characters (Vue3, Vitest, Pinia)
 ```
 ⌛ Some are in progress...
