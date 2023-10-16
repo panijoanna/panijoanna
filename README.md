@@ -7,10 +7,7 @@ https://panimasz.pl/
 ✅ HTML5 | ✅ CSS3 | ✅ JAVASCRIPT ES6+ | ✅ React | ✅ Redux | ✅ Vue3 | ✅ Vitest (unit testing) | ✅ Pinia
 ```
 ```
-Testing: Vitest
-CSS: Tailwind, Styled components, Bootstrap
-Webpack, Vite, GIT
-Visual Studio Code, Jira, Trello, Node.js, Npm, GIT, Figma, Affinity Designer/Adobe Photoshop
+Other: Tailwind, Styled components, Bootstrap, Figma, Affinity Designer
 ```
 
 ### Completed projects
