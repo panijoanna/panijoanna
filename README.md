@@ -1,22 +1,28 @@
-## 👋  Hi, I'm Joanna - Front-end Developer 
-My official website:
-https://panimasz.pl/
+### Hi, I'm Joanna - Front-end Developer 👋
+🔗https://panimasz.pl/
 
-### My Front-end tech stack/skills:
+#### Tech stack/skills:
 ```
-✅ HTML5 | ✅ CSS3 | ✅ JAVASCRIPT ES6+ | ✅ React | ✅ Redux | ✅ Vue3 | ✅ Vitest (unit testing) | ✅ Pinia
+HTML5 & CSS3
+JavaScript ES6+
+React & Redux
+Vue3 & Pinia + Vitest (unit testing)
+TypeScript
 ```
 ```
-Other: Tailwind, Styled components, Bootstrap, Figma, Affinity Designer
+Other: TailwindCSS, Styled-Components, Bootstrap, Figma, Affinity Designer
+```
+```
+In progress: Angular, GraphQL, Node.js
 ```
 
-### Completed projects
+#### Completed projects
 ```
-📁 Commercial Portfolio (my own site for commercial purposes)
-📁 To Do List (React & Vanilla JS version)
-📁 Currency Converter (React & Vanilla JS Version)
-📁 Personal Homepage (React)
-📁 Movies Browser (project group, React + Redux)
-📁 Disney Characters (Vue3, Vitest, Pinia)
+* Commercial Portfolio
+* To Do List (React & Vanilla JS version)
+* Currency Converter (React with TypeScript & Vanilla JS Version)
+* Personal Homepage (React)
+* Movies Browser (project group, React & Redux)
+* Disney Characters (Vue3, Vitest, Pinia)
 ```
 ⌛ Some are in progress...
