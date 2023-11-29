@@ -13,7 +13,7 @@ TypeScript
 Other: TailwindCSS, Styled-Components, Bootstrap, Figma, Affinity Designer
 ```
 ```
-In progress: Angular, GraphQL, Node.js
+In progress: TypeScript, Angular, GraphQL, Node.js
 ```
 
 #### Completed projects
