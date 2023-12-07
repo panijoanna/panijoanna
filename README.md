@@ -1,4 +1,4 @@
-### Hi, I'm Joanna - Front-end Developer 👋
+### Hi, I'm Joanna - Fullstack JavaScript Developer 👋
 🔗https://panimasz.pl/
 
 #### Tech stack/skills:
