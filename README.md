@@ -1,4 +1,4 @@
-### Hi, I'm Joanna - dedicated Front-end 👋
+### Hi, I'm Joanna - dedicated Front-end Developer 👋
 🔗https://panimasz.pl/
 
 #### Tech stack/skills:
