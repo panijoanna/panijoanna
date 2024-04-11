@@ -1,28 +1,27 @@
-### Hi, I'm Joanna - Fullstack JavaScript Developer 👋
+### Hi, I'm Joanna - dedicated Front-end 👋
 🔗https://panimasz.pl/
 
 #### Tech stack/skills:
 ```
-HTML5 & CSS3
-JavaScript ES6+
-React & Redux
-Vue3 & Pinia + Vitest (unit testing)
-TypeScript
+HTML5, CSS3
+JavaScript ES6+, TypeScript
+React, Vue3, Angular
+Redux, Pinia
+Vitest (unit testing)
+GraphQL, REST API
 ```
 ```
 Other: TailwindCSS, Styled-Components, Bootstrap, Figma, Affinity Designer
 ```
-```
-In progress: TypeScript, Angular, GraphQL, Node.js
-```
 
-#### Completed projects
+#### Projects
 ```
-* Commercial Portfolio
-* To Do List (React & Vanilla JS version)
-* Currency Converter (React with TypeScript & Vanilla JS Version)
-* Personal Homepage (React)
-* Movies Browser (project group, React & Redux)
-* Disney Characters (Vue3, Vitest, Pinia)
+* E-commerce platform (Angular)
+* Commercial portfolio (React)
+* To do list (React + Vanilla JS version)
+* Currency converter (React with TypeScript + Vanilla JS Version)
+* Personal homepage (React)
+* Movies browser (project group, React, Redux)
+* Disney characters (Vue3, Vitest, Pinia)
 ```
 ⌛ Some are in progress...
