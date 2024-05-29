@@ -11,7 +11,7 @@ Vitest (unit testing)
 GraphQL, REST API
 ```
 ```
-Other: TailwindCSS, Styled-Components, Bootstrap, Figma, Affinity Designer
+Other: Nest.js, TailwindCSS, Styled-Components, Bootstrap, Figma, Affinity Designer
 ```
 
 #### Projects
