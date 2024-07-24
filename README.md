@@ -10,7 +10,7 @@ Redux, Pinia
 Vitest (unit testing)
 GraphQL, REST API
 Next.js
-Next.js
+Nest.js
 ```
 ```
 Other:  Material UI, TailwindCSS, Styled-Components, Bootstrap, Designing in Figma, Affinity Designer
