@@ -15,7 +15,7 @@ Next.js
 Nest.js
 ```
 ```
-Other:  Material UI, TailwindCSS, Styled-Components, Bootstrap, Designing in Figma, Affinity Designer
+Other:  Chakra UI, Material UI, TailwindCSS, Sass, Styled-Components, Bootstrap, Designing in Figma, Affinity Designer
 ```
 
 #### Projects
