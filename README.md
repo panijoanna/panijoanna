@@ -11,6 +11,7 @@ React, Vue3, Angular
 Redux, Pinia
 Vitest (unit testing)
 GraphQL, REST API
+PostgreSQL
 Next.js
 Nest.js
 ```
