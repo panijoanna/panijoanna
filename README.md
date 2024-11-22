@@ -19,13 +19,17 @@ Nest.js
 Other:  Chakra UI, Material UI, TailwindCSS, Sass, Styled-Components, Bootstrap, Designing in Figma, Affinity Designer
 ```
 
-#### Projects
+#### Commercial projects
 ```
-* E-commerce platform (Angular, GraphQL)
-* Commercial portfolio (React)
-* To do list (React + Vanilla JS version)
-* Currency converter (React with TypeScript + Vanilla JS Version)
-* Personal homepage (React)
+* Financial cost system (Next.js, TypeScript)
+* E-commerce (Angular, GraphQL)
+* Portfolio (React)
+```
+
+#### Other projects
+```
+* To do list (React, TypeScript)
+* Currency converter (JS)
 * Movies browser (React, Redux)
 * Disney characters (Vue3, Vitest, Pinia)
 ```
