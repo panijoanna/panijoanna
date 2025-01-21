@@ -1,4 +1,4 @@
-### Hi, I'm Joanna - dedicated Front-end Developer & Designer 👋
+### Hi, I'm Joanna - dedicated Front-end/Fullstack Developer & Designer 👋
 Hi! I am a passionate Front-end Developer & Designer with commercial experience. I specialize in creating websites as well as designing their graphic prototypes in Figma. I combine my passion for programming and design.
 
 🔗https://panimasz.pl/
